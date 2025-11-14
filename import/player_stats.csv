@@ -1,0 +1,838 @@
+﻿Jogador;Time;#;Nação;Pos.;Idade
+Éder;Criciúma;23;ITA;FW;37
+Yannick Bolasie;Criciúma;11;COD;FW;34
+Renato Kayser;Criciúma;79;BRA;FW;28
+Arthur;Criciúma;35;BRA;FW;31
+Marquinhos Gabriel;Criciúma;10;BRA;AM;33
+Matheusinho;Criciúma;17;BRA;AM;26
+Higor Meritão;Criciúma;5;BRA;LM;29
+Barreto;Criciúma;88;BRA;CM;28
+Fellipe Mateus;Criciúma;7;BRA;RM;33
+Miguel Trauco;Criciúma;14;PER;RM;31
+Marcelo Hermes;Criciúma;22;BRA;LB;29
+Walisson Maia;Criciúma;33;BRA;CB;32
+Rodrigo Fagundes;Criciúma;3;BRA;CB;37
+Claudinho;Criciúma;27;BRA;RB;23
+Yerson Candelo;Criciúma;19;COL;RB;32
+Alisson;Criciúma;25;BRA;GK;28
+Gilberto;Juventude;9;BRA;FW;34
+Erick;Juventude;7;BRA;FW;27
+Jean Carlos Vicente;Juventude;20;BRA;FW;32
+Nenê;Juventude;10;BRA;LM;42
+Marcelinho;Juventude;11;BRA;LM;21
+Caíque de Jesus Gonçalves;Juventude;95;BRA;CM;28
+Thiaguinho;Juventude;8;BRA;CM;27
+Jadson;Juventude;16;BRA;CM;30
+Lucas Barbosa;Juventude;21;BRA;RM;23
+Rildo;Juventude;37;BRA;RM;24
+Gabriel Inocêncio;Juventude;12;BRA;LB;29
+Zé Marcos;Juventude;3;BRA;CB;26
+Rodrigo Sam;Juventude;34;BRA;CB;28
+João Lucas;Juventude;2;BRA;RB;26
+Gabriel;Juventude;1;BRA;GK;31
+Lucca Holanda;Internacional;45;BRA;FW;21
+Wesley;Internacional;21;BRA;FW;25
+Rafael Borré;Internacional;19;COL;FW;28
+Wanderson;Internacional;11;BRA;LM;29
+Lucas Alario;Internacional;31;ARG;LM;31
+Bruno Gomes;Internacional;15;BRA;CM;23
+Bruno Henrique;Internacional;8;BRA;CM;34
+Thiago Maia;Internacional;29;BRA;CM;27
+Gabriel Mercado;Internacional;25;ARG;CB;37
+Mauricio;Internacional;27;BRA;RM;22
+Gustavo Prado;Internacional;47;BRA;RM;18
+Renê;Internacional;6;BRA;LB;31
+Fernando;Internacional;5;BRA;CM,CB;36
+Vitão;Internacional;44;BRA;CB;24
+Fabricio Bustos;Internacional;16;ARG;RB;27
+Sergio Rochet;Internacional;1;URU;GK;31
+Oscar Estupiñan;Bahia;29;COL;FW;27
+Cauly Oliveira Souza;Bahia;8;BRA;FW;28
+Thaciano;Bahia;16;BRA;FW;28
+Everaldo Stum;Bahia;9;BRA;FW;32
+Jean Lucas;Bahia;6;BRA;LM;25
+Caio Alexandre;Bahia;19;BRA;CM;25
+Biel;Bahia;11;BRA;CM;23
+Rezende;Bahia;5;BRA;CM;29
+Everton Ribeiro;Bahia;10;BRA;RM;35
+Carlos de Pena;Bahia;14;URU;RM;32
+Luciano Juba;Bahia;46;BRA;LB;24
+Víctor Cuesta;Bahia;15;ARG;CB;35
+Kanu;Bahia;4;BRA;CB;27
+Santiago Arias;Bahia;13;COL;RB;32
+Marcos Felipe;Bahia;22;BRA;GK;28
+Pablo;Athletico Paranaense;92;BRA;FW;31
+Gonzalo Mastriani;Athletico Paranaense;9;URU;FW;30
+Agustín Canobbio;Athletico Paranaense;14;URU;FW,LM;25
+José Vitor Silva Neves;Athletico Paranaense;30;BRA;LM;23
+Fernandinho;Athletico Paranaense;5;BRA;AM;38
+Tomás Cuello;Athletico Paranaense;28;ARG;LM;24
+Bruno Zapelli;Athletico Paranaense;10;ARG;RM;21
+Julimar;Athletico Paranaense;20;BRA;RM;23
+Alex Santana;Athletico Paranaense;80;BRA;FW;28
+Erick;Athletico Paranaense;26;BRA;DM;26
+Filipinho;Athletico Paranaense;23;BRA;DM;22
+Lucas Esquivel;Athletico Paranaense;37;ARG;LB;22
+Thiago Heleno;Athletico Paranaense;44;BRA;CB;35
+Kaique Rocha;Athletico Paranaense;4;BRA;CB;23
+Leonardo Godoy;Athletico Paranaense;29;ARG;RB;28
+Bento;Athletico Paranaense;1;BRA;GK;24
+Deyverson;Cuiabá;16;BRA;FW;32
+Isidro Pitta;Cuiabá;9;PAR;FW;24
+Clayson;Cuiabá;25;BRA;LM;29
+Jonathan Cafu;Cuiabá;7;BRA;RM,LM;32
+Lucas Mineiro;Cuiabá;30;BRA;CM;28
+Fernando Sobral;Cuiabá;88;BRA;CM;29
+Max;Cuiabá;10;BRA;CM;22
+Filipe Augusto;Cuiabá;5;BRA;CM;30
+Derik Lacerda;Cuiabá;22;BRA;RM;24
+André Luis;Cuiabá;97;BRA;LM,RM;26
+Rikelme;Cuiabá;20;BRA;LB;20
+Alan Empereur;Cuiabá;33;BRA;CB;30
+Allyson Aires dos Santos;Cuiabá;3;BRA;CB;33
+Marllon Borges;Cuiabá;4;BRA;CB;31
+Railan;Cuiabá;21;BRA;RB;24
+Walter;Cuiabá;1;BRA;GK;36
+Pablo Vegetti;Vasco da Gama;99;ARG;FW;35
+David;Vasco da Gama;7;BRA;LW;28
+Adson;Vasco da Gama;28;BRA;LW;23
+Rossi;Vasco da Gama;31;BRA;RW;30
+Rayan Vitor;Vasco da Gama;77;BRA;RW;17
+Mateus Cocão;Vasco da Gama;85;BRA;LM;22
+Juan Sforza;Vasco da Gama;20;ARG;CM;22
+Pablo Galdames Millán;Vasco da Gama;27;CHI;RM;27
+João Pedro;Vasco da Gama;98;BRA;RM;18
+Lucas Piton;Vasco da Gama;6;BRA;LB;23
+Léo Pelé;Vasco da Gama;3;BRA;CB;28
+Gary Medel;Vasco da Gama;17;CHI;CB;36
+João Victor;Vasco da Gama;38;BRA;CB,RB;25
+Paulo Henrique;Vasco da Gama;96;BRA;RB;27
+Robert Rojas;Vasco da Gama;32;PAR;CB;27
+Léo Jardim;Vasco da Gama;1;BRA;GK;29
+Diego Costa;Grêmio;19;ESP;FW;35
+Yeferson Soteldo;Grêmio;7;VEN;LW;26
+Gustavo Nunes;Grêmio;39;BRA;LW;18
+Cristian Pavón;Grêmio;21;ARG;RW;28
+Nathan Fernandes;Grêmio;32;BRA;RW;19
+Franco Cristaldo;Grêmio;10;ARG;AM;27
+Mathías Villasanti;Grêmio;20;PAR;DM;27
+Du Queiroz;Grêmio;37;BRA;DM;24
+Cuiabano;Grêmio;54;BRA;LB;21
+Zé Guilherme;Grêmio;46;BRA;LB;19
+Walter Kannemann;Grêmio;4;ARG;CB;33
+Gustavo Martins Santos;Grêmio;53;BRA;CB;21
+Rodrigo Ely;Grêmio;5;BRA;CB;30
+Agustín Marchesín;Grêmio;1;ARG;GK;36
+Yuri Alberto;Corinthians;9;BRA;FW;23
+Wesley;Corinthians;36;BRA;LW;19
+Ángel Romero;Corinthians;11;PAR;RW;31
+Pedro Raul;Corinthians;20;BRA;RW;27
+Rodrigo Garro;Corinthians;10;ARG;AM;26
+Igor Coronado;Corinthians;77;BRA;AM;31
+Fausto Vera;Corinthians;5;ARG;DM;24
+Maycon;Corinthians;7;BRA;DM;26
+Raniele;Corinthians;14;BRA;DM,CB;27
+Hugo;Corinthians;46;BRA;LB;26
+Gustavo Henrique;Corinthians;13;BRA;CB;31
+Paulinho;Corinthians;8;BRA;DM;35
+Félix Torres Caicedo;Corinthians;3;ECU;CB;27
+Fagner;Corinthians;23;BRA;RB;34
+Matheuzinho;Corinthians;2;BRA;RB;23
+Cássio;Corinthians;12;BRA;GK;36
+Gustavo Scarpa;Atlético Mineiro;6;BRA;AM;30
+Hulk;Atlético Mineiro;7;BRA;FW;37
+Eduardo Vargas;Atlético Mineiro;11;CHI;FW;34
+Igor Gomes;Atlético Mineiro;17;BRA;AM;25
+Igor Rabello;Atlético Mineiro;16;BRA;CB;28
+Federico Zaracho;Atlético Mineiro;15;ARG;CM;26
+Alan Franco;Atlético Mineiro;23;ECU;CM;25
+Otávio;Atlético Mineiro;5;BRA;CM;29
+Guilherme Arana;Atlético Mineiro;13;BRA;WB;27
+Renzo Saravia;Atlético Mineiro;26;ARG;WB;30
+Jemerson;Atlético Mineiro;34;BRA;CB;31
+Rodrigo Battaglia;Atlético Mineiro;21;ARG;CB;32
+Mauricio Lemos;Atlético Mineiro;4;URU;CB;28
+Éverson;Atlético Mineiro;22;BRA;GK;33
+Luiz Fernando;Atlético Goianiense;11;BRA;FW;27
+Emiliano Rodríguez;Atlético Goianiense;9;URU;FW;20
+Derek;Atlético Goianiense;19;BRA;FW;26
+Alejo Cruz;Atlético Goianiense;7;URU;LM;23
+Luiz Felipe;Atlético Goianiense;13;BRA;LM;30
+Gabriel Baralhas;Atlético Goianiense;5;BRA;CM;25
+Shaylon;Atlético Goianiense;10;BRA;RM;26
+Rhaldney;Atlético Goianiense;8;BRA;DM;25
+Yony González;Atlético Goianiense;21;COL;DM;29
+Guilherme Romão;Atlético Goianiense;6;BRA;LB;26
+Alix Vinicius;Atlético Goianiense;4;BRA;CB;24
+Adriano Martins;Atlético Goianiense;3;BRA;CB;27
+Pedrão;Atlético Goianiense;14;BRA;CB;31
+Maguinho;Atlético Goianiense;2;BRA;RB;31
+Ronaldo;Atlético Goianiense;1;BRA;GK;27
+Pedro;Flamengo;9;BRA;FW;26
+Everton Soares;Flamengo;11;BRA;LW;28
+Bruno Henrique;Flamengo;27;BRA;LW;33
+Luiz Araújo;Flamengo;7;BRA;RW;27
+Victor Hugo;Flamengo;29;BRA;RW;19
+Giorgian De Arrascaeta;Flamengo;14;URU;AM;29
+Nicolás De La Cruz;Flamengo;18;URU;DM;26
+Lorran;Flamengo;19;BRA;DM;17
+Erick Pulgar;Flamengo;5;CHI;DM;30
+Matías Viña;Flamengo;17;URU;LB;26
+Gerson;Flamengo;8;BRA;LB;26
+Léo Pereira;Flamengo;4;BRA;CB;28
+Carlinhos;Flamengo;22;BRA;CB;27
+Fabrício Bruno;Flamengo;15;BRA;CB;28
+Ayrton Lucas;Flamengo;6;BRA;RB;26
+Agustín Rossi;Flamengo;1;ARG;GK;28
+Matheus Pereira;Cruzeiro;10;POR;FW;27
+Gabriel Veron;Cruzeiro;30;BRA;FW;21
+Arthur;Cruzeiro;11;BRA;LW;25
+Álvaro Barreal;Cruzeiro;21;ARG;LW;23
+Rafael Silva;Cruzeiro;8;BRA;RW;32
+Rafael Elias;Cruzeiro;19;BRA;RW;25
+Lucas Silva;Cruzeiro;16;BRA;LM;31
+Mateus Vital;Cruzeiro;7;BRA;LM;26
+Lucas Romero;Cruzeiro;29;ARG;CM;29
+João Marcelo;Cruzeiro;43;BRA;CM;23
+Ramiro Benetti;Cruzeiro;17;BRA;RM;30
+José Cifuentes;Cruzeiro;18;ECU;RM;25
+Marlon;Cruzeiro;3;BRA;LB;26
+Zé Ivaldo;Cruzeiro;5;BRA;CB;27
+Neris;Cruzeiro;27;BRA;CB;31
+William;Cruzeiro;12;BRA;RB;29
+Anderson;Cruzeiro;98;BRA;GK;26
+Júnior Santos;Botafogo (RJ);11;BRA;FW;29
+Tiquinho Soares;Botafogo (RJ);9;BRA;FW;33
+Óscar Romero;Botafogo (RJ);70;PAR;FW;31
+Jeffinho;Botafogo (RJ);47;BRA;LM;24
+Jefferson Savarino;Botafogo (RJ);10;VEN;RM,LM;27
+Marlon Freitas;Botafogo (RJ);17;BRA;CM;29
+Tchê Tchê;Botafogo (RJ);6;BRA;CM;31
+Gregore;Botafogo (RJ);26;BRA;CM;30
+Danilo Barbosa;Botafogo (RJ);5;BRA;CB,CM;28
+Luiz Henrique;Botafogo (RJ);7;BRA;RM,LM;23
+Fernando Marçal;Botafogo (RJ);21;BRA;LB;35
+Bastos;Botafogo (RJ);15;ANG;CB;33
+Alexander Barboza;Botafogo (RJ);20;ARG;CB;29
+Lucas Halter;Botafogo (RJ);3;BRA;CB;23
+Mateo Ponte;Botafogo (RJ);4;URU;RB;20
+Gatito Fernández;Botafogo (RJ);1;PAR;GK;36
+Alerrandro;Vitória;9;BRA;FW;24
+Luiz Adriano;Vitória;12;BRA;FW;37
+Osvaldo;Vitória;11;BRA;LW;37
+Iury de Castilho;Vitória;7;BRA;LW;28
+Matheusinho;Vitória;30;BRA;RW;26
+Dudu;Vitória;21;BRA;LM;24
+Mateus Gonçalves Martins;Vitória;23;BRA;LM;29
+Willian;Vitória;29;BRA;CM;30
+Rodrigo Andrade;Vitória;32;BRA;RM;26
+Jean Mota;Vitória;10;BRA;RM;30
+Lucas Esteves;Vitória;16;BRA;LB;23
+José Hugo;Vitória;17;BRA;LB;24
+Wagner;Vitória;4;BRA;CB;24
+Camutanga;Vitória;13;BRA;CB;30
+Zeca;Vitória;2;BRA;RB;29
+Lucas Arcanjo;Vitória;1;BRA;GK;25
+Endrick;Palmeiras;9;BRA;FW;17
+Lázaro;Palmeiras;17;BRA;FW;22
+Rony;Palmeiras;10;BRA;LW;28
+Kaiky Naves;Palmeiras;34;BRA;LW;21
+Estevão;Palmeiras;41;BRA;RW;17
+Luis Guilherme;Palmeiras;31;BRA;RW;18
+Raphael Veiga;Palmeiras;23;BRA;AM;28
+Fabinho;Palmeiras;35;BRA;AM;22
+Gabriel Menino;Palmeiras;25;BRA;DM;23
+Richard Ríos;Palmeiras;27;COL;DM;23
+José López;Palmeiras;42;ARG;DM;23
+Vanderlan;Palmeiras;6;BRA;LB;21
+Murilo Cerqueira;Palmeiras;26;BRA;CB;27
+Luan Garcia;Palmeiras;13;BRA;CB;30
+Mayke;Palmeiras;12;BRA;RB;31
+Wéverton;Palmeiras;21;BRA;GK;36
+Germán Cano;Fluminense;14;ARG;FW,AM;36
+Kauã Elias;Fluminense;19;BRA;AM;18
+Jhon Arias;Fluminense;21;COL;LW;26
+Marquinhos;Fluminense;77;BRA;RW,RB;21
+Ganso;Fluminense;10;BRA;AM,DM;34
+Felipe Vieira;Fluminense;13;;CB;
+Lima;Fluminense;45;BRA;DM;27
+André;Fluminense;7;BRA;DM,CB;22
+Marcelo;Fluminense;12;BRA;LB;35
+Martinelli;Fluminense;8;BRA;CB;22
+Felipe Melo;Fluminense;30;BRA;CB;40
+John Kennedy;Fluminense;9;BRA;FW;21
+Samuel Xavier;Fluminense;2;BRA;RB;33
+Douglas Costa;Fluminense;90;BRA;RW;33
+Fábio;Fluminense;1;BRA;GK;43
+Henry Mosquera;Red Bull Bragantino;30;COL;RM,FW;22
+Eduardo Sasha;Red Bull Bragantino;19;BRA;FW,LW;32
+Ignacio Laquintana;Red Bull Bragantino;33;URU;RW;25
+Vitinho;Red Bull Bragantino;28;BRA;LM;25
+Gustavinho;Red Bull Bragantino;22;BRA;LM;19
+Thiago Borbas;Red Bull Bragantino;18;URU;FW;22
+Raul;Red Bull Bragantino;23;BRA;CM;27
+Eric Ramires;Red Bull Bragantino;7;BRA;CM;23
+Jadsom;Red Bull Bragantino;5;BRA;CM,RM;22
+Juninho Capixaba;Red Bull Bragantino;29;BRA;LB;26
+Guilherme;Red Bull Bragantino;31;BRA;LB;22
+Luan Cândido;Red Bull Bragantino;36;BRA;CB;23
+Douglas Mendes;Red Bull Bragantino;39;BRA;CB;19
+José Hurtado;Red Bull Bragantino;34;ECU;RB;22
+Cleiton Schwengber;Red Bull Bragantino;1;BRA;GK;26
+Lucão;Red Bull Bragantino;40;BRA;GK;23
+Jonathan Calleri;São Paulo;9;ARG;FW;30
+Luciano;São Paulo;10;BRA;FW;30
+André Silva;São Paulo;17;BRA;FW;26
+Giuliano Galoppo;São Paulo;8;ARG;AM;24
+James Rodríguez;São Paulo;55;COL;AM;32
+Pablo Maia;São Paulo;29;BRA;CM;22
+Rodrigo Nestor;São Paulo;11;BRA;CM;23
+Michel Araujo;São Paulo;15;URU;WB;27
+William Gomes;São Paulo;39;BRA;WB;18
+Igor Vinícius de Souza;São Paulo;2;BRA;WB;27
+Diego;São Paulo;4;BRA;CB;24
+Robert Arboleda;São Paulo;5;ECU;CB;32
+Nahuel Ferraresi;São Paulo;32;VEN;CB;25
+Rafael Pires;São Paulo;23;BRA;GK;34
+Juan Martín Lucero;Fortaleza;9;ARG;FW;32
+Guilherme Tinga;Fortaleza;2;BRA;FW;30
+Marinho;Fortaleza;11;BRA;FW;33
+Moises;Fortaleza;21;BRA;FW;27
+Hércules;Fortaleza;35;BRA;CM;23
+Pedro Borges;Fortaleza;28;BRA;CM;27
+José Welison;Fortaleza;17;BRA;CM;29
+Lucas Sasha;Fortaleza;88;BRA;CM;34
+Tomas Pochettino;Fortaleza;7;ARG;CM;28
+Bruno Pacheco;Fortaleza;6;BRA;WB;32
+Yago Pikachu;Fortaleza;22;BRA;WB;31
+Imanol Machuca;Fortaleza;39;ARG;WB;24
+Titi;Fortaleza;4;BRA;CB;36
+Benjamín Kuscevic;Fortaleza;13;CHI;CB;27
+Emanuel Brítez;Fortaleza;19;ARG;CB;32
+João Ricardo Riedi;Fortaleza;1;BRA;GK;35
+João Pedro;Grêmio;11;ITA;FW;32
+Everton;Grêmio;13;BRA;FW;27
+Dodi;Grêmio;17;BRA;CM;28
+Nata;Grêmio;36;BRA;CM;22
+Pedro Geromel;Grêmio;3;BRA;CB;38
+Fábio;Grêmio;2;BRA;RB;33
+Mádson;Athletico Paranaense;22;BRA;RB;32
+Bruninho;Red Bull Bragantino;17;BRA;RM;21
+Zé Gabriel;Vasco da Gama;23;BRA;CM;25
+Clayton;Vasco da Gama;9;BRA;FW;25
+Maicon;Vasco da Gama;4;BRA;CB;35
+Werik Popó;Juventude;45;BRA;FW;22
+Ruan;Juventude;29;BRA;RM;18
+Luis Mandaca;Juventude;44;BRA;FW;22
+Danilo Boza;Juventude;4;BRA;CB;25
+Gustavo Mosquito;Corinthians;19;BRA;RW,RM;26
+Carlos Eduardo;Atlético Mineiro;42;BRA;FW;19
+Alisson;Atlético Mineiro;45;BRA;RW;18
+Rubens;Atlético Mineiro;44;BRA;LB;22
+Eliédson;Criciúma;15;BRA;AM;21
+Mateo Barcia;Criciúma;30;URU;RM;23
+Wilker Ángel;Criciúma;4;VEN;CB;31
+Romulo;Palmeiras;20;BRA;AM;22
+Aníbal Moreno;Palmeiras;5;ARG;CM;24
+Marcos Rocha;Palmeiras;2;BRA;WB;35
+Joaquín Piquerez;Palmeiras;22;URU;CB;25
+Gustavo Gómez;Palmeiras;15;PAR;CB;30
+Robert Renan;Internacional;4;BRA;CB,RW;20
+Renato Kayser;Fortaleza;79;BRA;FW;28
+Robert;Cruzeiro;80;BRA;CB;19
+Ademir Santos;Bahia;7;BRA;LW;29
+Cicinho;Bahia;40;BUL;AM;35
+Gabriel;Bahia;3;BRA;CB;22
+Isaac;Fluminense;32;BRA;LB;19
+Diogo Barbosa;Fluminense;6;BRA;LB;31
+Alexsander;Fluminense;5;BRA;DM;20
+Manoel;Fluminense;26;BRA;CB;34
+Allan;Flamengo;21;BRA;DM;27
+Igor;Flamengo;48;BRA;DM;21
+Guillermo Varela;Flamengo;2;URU;RB;31
+Juan Santos;São Paulo;31;BRA;CM;22
+Welington;São Paulo;6;BRA;LB,WB;23
+Ferreira;São Paulo;47;BRA;LM;26
+Matheus Nascimento;Botafogo (RJ);90;BRA;FW;20
+Patrick de Paula;Botafogo (RJ);8;BRA;AM;24
+Hugo;Botafogo (RJ);16;BRA;LB;22
+Derek;Atlético Goianiense;18;BRA;FW;26
+Max;Atlético Goianiense;21;BRA;FW;21
+Vágner Love;Atlético Goianiense;20;BRA;LM;39
+Gabriel Baralhas;Atlético Goianiense;8;BRA;CM;25
+Rhaldney;Atlético Goianiense;5;BRA;CM;25
+Yony González;Atlético Goianiense;19;COL;CM;29
+Pedrão;Atlético Goianiense;4;BRA;CB;31
+Luiz Felipe;Atlético Goianiense;3;BRA;CB;30
+Bruno Tubarão;Atlético Goianiense;2;BRA;RB;29
+Antonio Carlos;Fluminense;25;BRA;CB;31
+Erick Marcus;Vasco da Gama;16;BRA;LM;20
+Hugo Moura;Vasco da Gama;25;BRA;CM;26
+Lucas Cunha;Red Bull Bragantino;4;BRA;CB;27
+Pedro Henrique;Corinthians;16;BRA;LW;33
+Breno;Corinthians;27;BRA;AM;19
+Raul Bicalho;Corinthians;34;BRA;CB;24
+Ronald;Grêmio;35;BRA;AM,CM;21
+Luciano Giménez;Cuiabá;19;ARG;FW;24
+Denilson;Cuiabá;27;BRA;CM;23
+Lucas Fernandes;Cuiabá;18;BRA;CM;26
+Gabriel Knesowitsch;Cuiabá;44;BRA;CB;20
+Bruno Fabiano Alves;Cuiabá;34;BRA;CB;33
+Matheus Alexandre;Cuiabá;2;BRA;RB;25
+Luan Silva;Vitória;8;BRA;CM;24
+Léo Naldi;Vitória;5;BRA;RM;22
+Bruno Uvini;Vitória;25;BRA;CB;32
+Willean Lepo;Vitória;97;BRA;RB;27
+Christian;Athletico Paranaense;88;BRA;LW;23
+Romulo;Internacional;40;BRA;DM;24
+Hugo Mallo;Internacional;2;ESP;RB;32
+Maguinho;Atlético Goianiense;13;BRA;CM;31
+Max;Atlético Goianiense;22;BRA;RM,LM,FW;21
+Gabriel Barros;Atlético Goianiense;19;BRA;RM;22
+Lucas Kal;Atlético Goianiense;15;BRA;CB,CM;28
+Budiga Roni;Atlético Goianiense;5;BRA;CM;25
+Rhaldney;Atlético Goianiense;17;BRA;DM,CM;25
+Alisson;São Paulo;25;BRA;CM;30
+Damián Bobadilla;São Paulo;21;PAR;CM;22
+Alan Franco;São Paulo;28;ARG;CB;27
+Carlos Eduardo;Botafogo (RJ);33;BRA;FW;34
+Diego Hernández;Botafogo (RJ);77;URU;RM,LM;23
+Jacob Montes;Botafogo (RJ);32;NCA;FW,CM;25
+Damián Suárez;Botafogo (RJ);22;URU;RB;35
+Abner;Juventude;23;BRA;CM;20
+Lucas Freitas;Juventude;43;BRA;CB;23
+Machado;Cruzeiro;23;BRA;CM;28
+Dimitri Payet;Vasco da Gama;10;FRA;AM;37
+Felipe Vizeu;Criciúma;9;BRA;FW;27
+Newton;Criciúma;8;BRA;CM;24
+Gustavo;Criciúma;1;BRA;GK;31
+Eliel Chrystian;Cuiabá;11;BRA;LM;21
+Guilherme Madruga;Cuiabá;8;BRA;CM;23
+Paulinho;Atlético Mineiro;10;BRA;FW;23
+Alan Kardec;Atlético Mineiro;14;BRA;FW;35
+Pedrinho;Atlético Mineiro;38;BRA;CM;26
+Bruno Fuchs;Atlético Mineiro;3;BRA;CB;25
+Wesley;Flamengo;43;BRA;RB;20
+John;Botafogo (RJ);12;BRA;GK;28
+João Pedro;Cruzeiro;55;BRA;LW;21
+Daniel Jr;Vitória;80;BRA;RW;21
+Léo Gamalho;Vitória;99;BRA;FW;38
+Janderson;Vitória;39;BRA;LW;24
+Biro;Corinthians;26;BRA;LM;20
+Matheus Bidu;Corinthians;21;BRA;LB,CM;24
+Cacá;Corinthians;25;BRA;CB;25
+Carlos Miguel;Corinthians;22;BRA;GK;25
+David Terans;Fluminense;80;URU;FW;29
+Renato Augusto;Fluminense;20;BRA;AM;36
+Guga;Fluminense;23;BRA;RB;25
+Kervin Andrade;Fortaleza;77;VEN;AM;19
+Felipe Jonatan;Fortaleza;36;BRA;LB;26
+Lincoln;Red Bull Bragantino;10;BRA;LM,CM;25
+Eduardo Santos;Red Bull Bragantino;3;BRA;CB,CM;26
+Nathan Mendes;Red Bull Bragantino;45;BRA;RB;21
+Kleiton;Juventude;75;BRA;RW,LW;25
+Alan Ruschel;Juventude;28;BRA;LB;34
+Nikão;Athletico Paranaense;11;BRA;AM,RW;31
+Mateo Gamarra;Athletico Paranaense;15;PAR;CB;23
+Matheus Dias;Internacional;41;BRA;RB;27
+Derek;Atlético Goianiense;17;BRA;FW;26
+Maguinho;Atlético Goianiense;7;BRA;RW;31
+Max;Atlético Goianiense;19;BRA;RW;21
+Alejo Cruz;Atlético Goianiense;20;URU;AM;23
+Rafael Ratão;Bahia;21;BRA;FW;28
+Edenílson;Grêmio;15;BRA;RW;34
+Rafael Cabral;Grêmio;33;BRA;GK;33
+Rômulo;Atlético Mineiro;47;BRA;CB;20
+Helinho;Red Bull Bragantino;11;BRA;RW;24
+Lucas Evangelista;Red Bull Bragantino;8;BRA;DM;28
+Pedro Henrique;Red Bull Bragantino;14;BRA;CB;28
+Leo Ortiz;Flamengo;3;BRA;CB;28
+Patric Calmon PK;Vitória;14;BRA;LB,WB;29
+Reynaldo Cesar Moraes;Vitória;40;BRA;CB;27
+Rodrigo;São Paulo;18;BRA;AM;20
+Erick;São Paulo;33;BRA;WB;26
+Ramon;Cuiabá;23;BRA;WB;23
+Zé Rafael;Palmeiras;8;BRA;CM;30
+Cuiabano;Botafogo (RJ);66;BRA;LB,WB;21
+Giovane;Corinthians;17;BRA;RB;20
+Gabriel Barbosa;Flamengo;10;BRA;FW;27
+Léo Mana;Corinthians;35;BRA;RB;20
+Fernando;Athletico Paranaense;6;BRA;LB;24
+Derek;Atlético Goianiense;9;BRA;FW;26
+Emiliano Rodríguez;Atlético Goianiense;21;URU;FW;20
+Gabriel Barros;Atlético Goianiense;7;BRA;RW;22
+Danielzinho;Atlético Goianiense;17;BRA;AM;28
+Lucas Kal;Atlético Goianiense;5;BRA;DM;28
+Vitor Hugo Amorim;Cruzeiro;22;BRA;LM;20
+Breno;Fortaleza;26;BRA;LW;28
+Matheus Rossetto;Fortaleza;16;BRA;DM;27
+Talisson;Red Bull Bragantino;21;BRA;FW;21
+Matheus Fernandes;Red Bull Bragantino;35;BRA;LM;25
+José Luis Rodríguez Bebanz;Vasco da Gama;2;URU;LW;27
+Bruno Praxedes;Vasco da Gama;21;BRA;AM;22
+Patryck;São Paulo;36;BRA;LB;21
+Keno;Fluminense;11;BRA;LW;34
+Erick Castillo;Vitória;31;ECU;LM;29
+Caio Vinícius;Vitória;15;BRA;CM;25
+Vágner Love;Atlético Goianiense;9;BRA;FW;39
+Emiliano Rodríguez;Atlético Goianiense;19;URU;FW;20
+Alejo Cruz;Atlético Goianiense;11;URU;LW;23
+Budiga Roni;Atlético Goianiense;16;BRA;CM;25
+Rhaldney;Atlético Goianiense;7;BRA;RM;25
+Felipe Carballo;Grêmio;8;URU;DM;27
+Mayk;Grêmio;26;BRA;LB;24
+Enner Valencia;Internacional;13;ECU;FW;34
+Alan Patrick;Internacional;10;BRA;AM;33
+Charles Aránguiz;Internacional;20;CHI;DM;35
+Igor Gomes;Internacional;3;BRA;RB;23
+Thiago dos Santos;Fluminense;29;BRA;CB;34
+Marlon;Fluminense;4;BRA;CB;28
+Luis Oyama;Juventude;5;BRA;CM,DM;27
+Allano;Criciúma;2;BRA;FW;29
+Arthur;Criciúma;45;BRA;RW;31
+Ronald;Criciúma;6;BRA;RM;26
+Rodrigo Fagundes;Criciúma;150;BRA;CB;37
+Jonathan;Criciúma;13;BRA;RB;31
+Caio Paulista;Palmeiras;16;BRA;LB;26
+Victor Luis;Vasco da Gama;12;BRA;LM;30
+Gabriel Barbosa;Flamengo;99;BRA;FW;27
+David Luiz;Flamengo;23;BRA;CB;37
+Lucas Moura;São Paulo;7;BRA;FW;31
+Luiz Gustavo;São Paulo;16;BRA;CM;36
+João Moreira;São Paulo;30;POR;RB;20
+Kaiki;Cruzeiro;6;BRA;LB;21
+Leandro Emmanuel Martínez;Fortaleza;8;ARG;LM;29
+Tomás Cardona;Fortaleza;25;ARG;CB;28
+Lucas Di Yorio;Athletico Paranaense;7;ARG;DM;27
+Yarlen Augusto;Botafogo (RJ);67;BRA;FW;18
+Ewerton;Juventude;14;BRA;RW;23
+Mateo Zuleta;Atlético Goianiense;21;COL;LW;21
+Tobias Figueiredo;Criciúma;29;POR;CB;30
+Vágner Love;Atlético Goianiense;18;BRA;FW;40
+Alejo Cruz;Atlético Goianiense;19;URU;LM,CB;23
+Bruno Tubarão;Atlético Goianiense;13;BRA;RB;29
+Caetano;Corinthians;4;BRA;CB,RW;24
+Gabriel Moscardo;Corinthians;44;BRA;CM,LM;18
+Vinicius Mendonça;Red Bull Bragantino;54;BRA;LW;20
+Brahian Palacios;Atlético Mineiro;30;COL;FW;21
+João Wellington;Cruzeiro;77;BRA;LM;20
+Lucas Villalba;Cruzeiro;25;ARG;LB;29
+Evertton;Flamengo;52;BRA;AM;21
+Nathan;Grêmio;14;BRA;FW;28
+João Pedro Pepê;Grêmio;23;BRA;CM;26
+Reinaldo;Grêmio;6;BRA;LB;34
+Hyoran;Internacional;7;BRA;FW;31
+Fabrício;Internacional;12;BRA;GK;38
+Jandrei;São Paulo;93;BRA;GK;31
+Kayke Santos;Athletico Paranaense;21;BRA;RW;16
+Leonardo Linck;Athletico Paranaense;24;BRA;GK;23
+João Carlos;Criciúma;21;BRA;FW;22
+Yago;Bahia;20;BRA;RM;29
+Gilberto;Bahia;2;BRA;RB;31
+Pedro Rocha Neves;Fortaleza;32;BRA;LM,RM;29
+Gabriel Taliari;Juventude;19;BRA;AM;27
+Peixoto;Juventude;72;BRA;DM;26
+Gabriel Carvalho;Internacional;34;BRA;AM;16
+Matheus Araújo;Corinthians;30;BRA;RW;22
+João Pedro;Corinthians;47;BRA;CB;20
+Wellington Rato;São Paulo;27;BRA;AM;31
+Kauan;Fortaleza;37;BRA;LM;19
+Caíque;Grêmio;97;BRA;GK;26
+Sergio Antonio De Luiz Junior;Vasco da Gama;70;BRA;AM;29
+Arthur Rodrigues;Cruzeiro;68;BRA;FW;20
+Wesley Gasolina;Cruzeiro;2;BRA;AM;24
+Mateo Zuleta;Atlético Goianiense;17;COL;LW;22
+Max;Atlético Goianiense;20;BRA;LM;21
+Alejo Cruz;Atlético Goianiense;6;URU;LB;23
+Matheus Mendes;Atlético Mineiro;31;BRA;GK;25
+Alejo Cruz;Atlético Goianiense;17;URU;LW;23
+Vágner Love;Atlético Goianiense;19;BRA;RM;40
+Mateo Zuleta;Atlético Goianiense;18;COL;LM;22
+Luiz Gustavo;Atlético Goianiense;3;BRA;CB;21
+Budiga Roni;Atlético Goianiense;15;BRA;CM;25
+Fabiano;Botafogo (RJ);79;BRA;RB;18
+Calebe;Fortaleza;10;BRA;RW;24
+Fábio Soares;Vitória;83;BRA;RM;19
+Raúl Cáceres;Vitória;27;PAR;RB;32
+Pablo Baianinho;Vitória;62;BRA;RB;20
+Isaac;Atlético Mineiro;41;BRA;FW;20
+Robert Conceição;Atlético Mineiro;33;BRA;CM;20
+Cleiton;Flamengo;33;BRA;LB;21
+Lucca Drummond;Internacional;48;BRA;FW;20
+Matheus Donelli;Corinthians;32;BRA;GK;22
+Lucas Calegari;Fluminense;31;BRA;RB;22
+Jhonatan Jowjow;Palmeiras;40;BRA;AM;21
+García;Palmeiras;32;BRA;RW;22
+Alejo Cruz;Atlético Goianiense;18;URU;LB;23
+Luiz Felipe;Atlético Goianiense;14;BRA;CB;30
+Pedro Rangel;Atlético Goianiense;1;BRA;GK;23
+Gabriel;Fluminense;22;BRA;CM;30
+Kayke;Corinthians;31;BRA;LW;20
+Mariano;Atlético Mineiro;25;BRA;CB;38
+Dudu;Palmeiras;7;BRA;LW,FW;32
+Guilherme Estrella;Vasco da Gama;14;BRA;AM;19
+Leandrinho;Vasco da Gama;66;BRA;LB;19
+João Machado Cruz;Athletico Paranaense;57;BRA;LW;18
+Mateus Claus;Juventude;77;BRA;GK;29
+Yeferson Rodallega;Atlético Goianiense;17;COL;LB;23
+Luiz Felipe;Atlético Goianiense;4;BRA;CB;30
+Paulo Vitor;Atlético Mineiro;27;BRA;CM;19
+Vitor Reis;Palmeiras;44;BRA;CB;18
+Everton;Red Bull Bragantino;55;BRA;LW;22
+Kauê;Botafogo (RJ);25;BRA;LM;19
+Alejo Cruz;Atlético Goianiense;8;URU;LM;23
+Budiga Roni;Atlético Goianiense;7;BRA;RM;25
+Randerson;Atlético Goianiense;17;BRA;CM,RM;20
+Luis Eduardo Marques dos Santos;Fortaleza;20;BRA;RW;27
+João Pedro;Grêmio;18;BRA;RB;27
+Jan Lucumí González;Fluminense;17;COL;RM;20
+Werton;Flamengo;26;BRA;LW;20
+Emersonn;Athletico Paranaense;90;BRA;RW;19
+Jadson;Cuiabá;77;BRA;LM,RM;18
+Helibelton Palacios;Cruzeiro;28;COL;RB;31
+Rodrigo Caio;Grêmio;30;BRA;CB;30
+Ryan Gustavo;Corinthians;37;BRA;LM,DM;20
+Mycael;Athletico Paranaense;41;BRA;GK;20
+Mateo Zuleta;Atlético Goianiense;19;COL;RW,DM;22
+Matheus Gonçalves;Flamengo;20;BRA;LM;18
+Esquerdinha;Fluminense;53;BRA;LB;18
+Alysson Edward;Grêmio;47;BRA;RW;18
+Lyncon;Vasco da Gama;33;BRA;CB;19
+Derek;Atlético Goianiense;20;BRA;FW;26
+Luighi;Palmeiras;57;BRA;FW;18
+Everaldo;Vitória;37;BRA;LM;30
+Victor Hugo;Atlético Mineiro;40;BRA;AM;19
+Gabriel;Athletico Paranaense;3;BRA;DM;32
+Bruno Lopes;Vasco da Gama;72;BRA;RW;16
+Yony González;Atlético Goianiense;9;COL;FW;30
+Lucas Kal;Atlético Goianiense;7;BRA;CM;28
+Rhaldney;Atlético Goianiense;11;BRA;CM;25
+Emiliano Rodríguez;Atlético Goianiense;20;URU;FW,RM;20
+Dé Marcão;Atlético Goianiense;5;BRA;CB;23
+Luiz Felipe;Atlético Goianiense;15;BRA;CB;30
+Fellipe Mateus;Criciúma;150;BRA;LM;33
+Rafinha;São Paulo;13;BRA;RB;38
+Lautaro Díaz;Cruzeiro;26;ARG;LW;26
+Matheus Henrique;Cruzeiro;97;BRA;RM;26
+Cássio;Cruzeiro;1;BRA;GK;37
+Iago;Bahia;25;BRA;LB;27
+Ronie Carrillo;Juventude;79;ECU;FW;27
+David;Juventude;18;BRA;LM;24
+Bernard;Atlético Mineiro;20;BRA;AM;31
+Júnior Alonso;Atlético Mineiro;8;PAR;CB;31
+Jan Carlos Hurtado;Atlético Goianiense;9;VEN;FW;24
+Derek;Atlético Goianiense;21;BRA;FW;26
+Janderson;Atlético Goianiense;7;BRA;RW;25
+Yony González;Atlético Goianiense;22;COL;RW;30
+Gabriel Baralhas;Atlético Goianiense;19;BRA;CM;25
+Budiga Roni;Atlético Goianiense;17;BRA;RB;25
+Alex Santana;Corinthians;80;BRA;DM;29
+Hugo Souza;Corinthians;1;BRA;GK;25
+Igor;Botafogo (RJ);99;BRA;FW;23
+Mauricio;Palmeiras;18;BRA;RM,RW;23
+Felipe Anderson;Palmeiras;9;BRA;LM;31
+Matias Arezo;Grêmio;9;URU;FW;21
+Lawan;Vitória;33;BRA;FW;19
+Luis Miguel;Vitória;19;BRA;RM,LW;19
+Ricardo;Vitória;28;BRA;CM;30
+André Ramalho;Corinthians;5;BRA;CB;32
+Fausto Vera;Atlético Mineiro;18;ARG;CM;24
+Lyanco;Atlético Mineiro;2;BRA;CB;27
+Alex Teixeira;Vasco da Gama;90;BRA;LW,RW;34
+Philippe Coutinho;Vasco da Gama;11;BRA;AM;32
+Emerson Rodríguez;Vasco da Gama;17;COL;LW,RW;23
+Luiz Fernando;Atlético Goianiense;10;BRA;LM,LW;27
+Gustavo Campanharo;Atlético Goianiense;15;BRA;DM;32
+Yony González;Atlético Goianiense;20;COL;RM,FW;30
+Luiz Felipe;Atlético Goianiense;5;BRA;CB;30
+Budiga Roni;Atlético Goianiense;2;BRA;RB;25
+Lucas Kal;Atlético Goianiense;16;BRA;DM;28
+Nonato;Fluminense;16;BRA;AM;26
+Thiago Silva;Fluminense;3;BRA;CB;39
+Kaio Jorge;Cruzeiro;9;BRA;FW,RW;22
+Éder;Criciúma;100;ITA;FW;37
+Juan Ignacio Dinenno;Cruzeiro;19;ARG;RW;29
+Walace;Cruzeiro;20;BRA;CM;29
+Carlos Alberto;Botafogo (RJ);27;BRA;FW;22
+Allan;Botafogo (RJ);28;BRA;DM,CM;33
+Charles Rigon Matos;Corinthians;8;BRA;WB,CM;28
+Jemerson;Grêmio;28;BRA;CB;31
+Lucas Kal;Atlético Goianiense;18;BRA;CM;28
+Shaylon;Atlético Goianiense;19;BRA;CM;27
+Gonzalo Freitas;Atlético Goianiense;5;URU;DM;32
+Tiago;Bahia;77;BRA;FW;19
+Ruan Pablo;Bahia;52;BRA;LM;16
+Kevin Serna;Fluminense;90;COL;LW;26
+Agustín Giay;Palmeiras;4;ARG;RB;20
+Marcelo Lomba;Palmeiras;14;BRA;GK;37
+José Breno;Vitória;50;BRA;CM;20
+Machado;Vitória;36;BRA;DM;28
+Neris;Vitória;77;BRA;CB;32
+EDU;Vitória;43;BRA;CB;24
+Diego Gonçalves;Juventude;13;BRA;LW;30
+Luciano Rodríguez;Bahia;17;URU;FW;21
+David Duarte;Bahia;33;BRA;CB;29
+Vitor Hugo;Bahia;31;BRA;CB;33
+Alexandro Bernabei;Internacional;26;ARG;LB;23
+Jhonatan Jowjow;Red Bull Bragantino;6;BRA;DM,AM;21
+Juliano;Red Bull Bragantino;59;BRA;FW;16
+Matheus Cunha;Flamengo;25;BRA;GK;23
+Janderson;Atlético Goianiense;11;BRA;RW;25
+Shaylon;Atlético Goianiense;18;BRA;AM,LM;27
+Lucas Kal;Atlético Goianiense;17;BRA;DM;28
+Yeferson Rodallega;Atlético Goianiense;6;COL;LB;23
+Gabriel Souza;Vasco da Gama;19;BRA;RW;19
+Liziero;São Paulo;26;BRA;CM;26
+Carlos Eduardo;Vitória;96;BRA;LW;27
+Josef de Souza;Vasco da Gama;5;BRA;DM;35
+Leonardo Realpe;Red Bull Bragantino;2;ECU;CB;23
+Jan Carlos Hurtado;Atlético Goianiense;19;VEN;FW;24
+Joel Campbell;Atlético Goianiense;7;CRC;RW;32
+Matheus Martins;Botafogo (RJ);37;BRA;FW;21
+Edson Carioca;Juventude;17;BRA;RM;27
+Miguel Monsalve;Grêmio;11;COL;FW;20
+Alexander Aravena;Grêmio;16;CHI;LW;21
+Juan Pablo;Cuiabá;63;BRA;LB;22
+Martin Braithwaite;Grêmio;22;DEN;FW;33
+Davi Goes;Juventude;88;BRA;CM;19
+Yan Souto;Juventude;70;BRA;CM;22
+Thiago Almada;Botafogo (RJ);23;ARG;LW;23
+Marcos Antônio;São Paulo;20;BRA;DM;24
+José Sabino;São Paulo;35;BRA;CB;27
+Joel Campbell;Atlético Goianiense;18;CRC;AM;32
+Eli;Atlético Goianiense;20;BRA;RW;20
+Ricardo Mathias;Internacional;49;BRA;DM;18
+Agustín Rogel;Internacional;18;URU;CB;26
+Deyverson;Atlético Mineiro;9;BRA;FW;33
+Talles Magno;Corinthians;43;BRA;FW;22
+Ignácio;Fluminense;4;BRA;CB;27
+Bruno Tabata;Internacional;17;BRA;RW;27
+Chumbinho;Red Bull Bragantino;53;BRA;RM;20
+Fabrício;Red Bull Bragantino;37;BRA;GK;24
+Luis Eduardo Marques dos Santos;Criciúma;20;BRA;RB;27
+Joel Campbell;Atlético Goianiense;10;CRC;AM;32
+Jorginho;Atlético Goianiense;18;BRA;AM;33
+Shaylon;Atlético Goianiense;17;BRA;DM;27
+Rafael Haller;Atlético Goianiense;13;URU;RB;24
+Dudu Vieira;Juventude;30;BRA;DM;30
+Facundo Bernal;Fluminense;31;URU;DM;20
+Gabriel Baralhas;Atlético Goianiense;16;BRA;DM,CM;25
+Patrick de Paula;Criciúma;85;BRA;CM;24
+João Ricardo Riedi;Fortaleza;180;BRA;GK;35
+Henrique;São Paulo;37;BRA;RW;17
+Michael;Flamengo;30;BRA;LW;28
+Riquelme;Red Bull Bragantino;32;BRA;DM;18
+Facundo Bernal;Fluminense;5;URU;DM;21
+Bruno Praxedes;Athletico Paranaense;8;BRA;CM;22
+Anthoni;Internacional;24;BRA;GK;22
+Sergio Antonio De Luiz Junior;Criciúma;35;BRA;RM;29
+Gustavo Sauer;Cuiabá;19;BRA;RM;31
+Werik Popó;Criciúma;77;BRA;FW;22
+Joel Campbell;Atlético Goianiense;9;CRC;FW,RM;32
+Alejo Cruz;Atlético Goianiense;16;URU;LW,LB;24
+Matías Lacava;Atlético Goianiense;20;VEN;LM;21
+Jorginho;Atlético Goianiense;17;BRA;FW,LB;33
+Héctor;Corinthians;22;ESP;AM;28
+José Andrés Martínez;Corinthians;70;VEN;CM;30
+Carlos Alcaraz;Flamengo;37;ARG;DM,CM;21
+Nathan;Internacional;23;BRA;RB;22
+Gustavo Mosquito;Vitória;7;BRA;RW;26
+Jean Meneses;Vasco da Gama;21;CHI;AM;31
+Mateus Pasinato;Cuiabá;14;BRA;GK;32
+Ronaldo;Juventude;96;BRA;DM;27
+Eros Mancuso;Fortaleza;33;ARG;RM;25
+Alix Vinicius;Atlético Goianiense;17;BRA;RW;24
+Joel Campbell;Atlético Goianiense;8;CRC;AM;32
+Matías Lacava;Atlético Goianiense;19;VEN;DM;21
+Janderson;Atlético Goianiense;20;BRA;RW,AM;25
+Gustavo Campanharo;Atlético Goianiense;18;BRA;DM;32
+Philipe Sampaio;Atlético Goianiense;4;BRA;CB;29
+Gabriel Fuentes;Fluminense;31;COL;LB;27
+Gonzalo Plata;Flamengo;45;ECU;RW,LW;23
+Alex Sandro;Flamengo;26;BRA;LB;33
+Fabrizio Peralta;Cruzeiro;33;PAR;DM;22
+Jamal Lewis;São Paulo;3;NIR;WB;26
+Santiago Longo;São Paulo;4;ARG;CM;26
+Ruan;São Paulo;22;BRA;CB;25
+Alex Telles;Botafogo (RJ);13;BRA;LB;31
+Vitinho;Botafogo (RJ);22;BRA;RB;25
+André Carrillo;Corinthians;19;PER;RM,FW;33
+Muriel Becker;Vitória;22;BRA;GK;37
+Memphis;Corinthians;94;NED;FW;30
+Matías Lacava;Atlético Goianiense;18;VEN;LW;21
+Rhaldney;Atlético Goianiense;16;BRA;DM;25
+Alix Vinicius;Atlético Goianiense;3;BRA;CB;24
+Adriano Martins;Atlético Goianiense;4;BRA;CB;27
+Adryelson;Botafogo (RJ);34;BRA;CB;26
+Maxime Dominguez;Vasco da Gama;26;SUI;DM;28
+Arthur;Red Bull Bragantino;27;BRA;AM,RB;21
+Jonathan;Cruzeiro;34;BRA;CB;20
+Wallace;Flamengo;64;BRA;LM,FW;19
+Felipe Teresa;Flamengo;40;BRA;LM,FW;18
+Allan;Flamengo;29;BRA;CM;27
+Daniel Sales;Flamengo;51;BRA;RB;18
+Jhonata Robert;Criciúma;50;BRA;LM;24
+Juan Martín Lucero;Fortaleza;197;ARG;FW;32
+Sergio Palacios;Red Bull Bragantino;13;COL;RB,CB;19
+Ivan Cavaleiro;Red Bull Bragantino;9;POR;LM;30
+Matías Lacava;Atlético Goianiense;10;VEN;LW;21
+Shaylon;Atlético Goianiense;20;BRA;RW,LW;27
+Gonzalo Freitas;Atlético Goianiense;19;URU;RM,LW;32
+Jean Carlos Alves Ferreira;Atlético Goianiense;22;BRA;RM,RW;19
+Victor Hugo;Fluminense;20;BRA;DM;20
+Clayton;Internacional;20;BRA;CB;24
+Pedro Rocha Neves;Criciúma;28;BRA;AM;29
+Igor Schlemper;Grêmio;34;BRA;RW;19
+Shaylon;Atlético Goianiense;16;BRA;RM;27
+Luiz Fernando;Atlético Goianiense;18;BRA;LW;27
+Jean Carlos Alves Ferreira;Atlético Goianiense;20;BRA;RB;19
+Joel Campbell;Atlético Goianiense;17;CRC;RM,RW;32
+Tevis Gabriel Alves Santos;Cruzeiro;66;BRA;LW;18
+Caio Maia;Atlético Mineiro;39;BRA;LW;19
+Renato Augusto;Fluminense;7;BRA;LW;36
+Lucas Belezi;Athletico Paranaense;45;BRA;CB;21
+Jan Carlos Hurtado;Atlético Goianiense;18;VEN;FW;24
+Pedro Paranhos;Atlético Goianiense;19;BRA;RW;18
+Luis Otávio;Internacional;39;BRA;DM;17
+Jhosefer;Cruzeiro;58;BRA;LW;20
+Lucas Romero;Cruzeiro;180;ARG;DM;30
+Jair;Vasco da Gama;8;BRA;DM;30
+Janderson;Atlético Goianiense;17;BRA;RW,LW;25
+Gonzalo Freitas;Atlético Goianiense;15;URU;DM;33
+Max Alegria;Vasco da Gama;16;BRA;LW;20
+Nicolás Acevedo;Bahia;26;URU;DM;25
+Victor Hugo;Red Bull Bragantino;50;BRA;RW;21
+Claudinho;Criciúma;150;BRA;RM;24
+Jan Carlos Hurtado;Atlético Goianiense;20;VEN;FW;24
+Matías Lacava;Atlético Goianiense;7;VEN;RW;22
+Alejo Cruz;Atlético Goianiense;10;URU;AM;24
+Janderson;Atlético Goianiense;19;BRA;RW;25
+Gabriel Delfim;Atlético Mineiro;1;BRA;GK;22
+Vitor Eudes;Fluminense;98;BRA;GK;26
+Barreto;Criciúma;200;BRA;DM;28
+Marcos Victor;Athletico Paranaense;43;BRA;RB;22
+Ogundana Shola;Flamengo;54;NGA;CM;19
+Kaique Kenji Takamura Correa;Cruzeiro;69;BRA;LW;18
+Adriel;Bahia;23;BRA;GK;23
+David;Cuiabá;20;BRA;LB;17
+Guilherme;Flamengo;47;BRA;AM;18
+Braian Aguirre;Internacional;35;ARG;RB;24
+Gonzalo Freitas;Atlético Goianiense;16;URU;AM;33
+Matheus Rossetto;Fortaleza;20;BRA;DM;28
+Jan Carlos Hurtado;Atlético Goianiense;17;VEN;FW;24
+Pedrão;Atlético Goianiense;15;BRA;CB;31
+Paulinho;Vasco da Gama;18;BRA;RM;27
+Isaque;Fluminense;37;BRA;RW;17
+Eduardo Vinícius;Cuiabá;15;BRA;DM;19
+Igor Jesus;Botafogo (RJ);99;BRA;FW;23
+Kauan;Cuiabá;49;BRA;LW,DM;18
+Rafael;Botafogo (RJ);2;BRA;RW;34
+Ryan Francisco;São Paulo;49;BRA;FW;18
+Igor;São Paulo;34;BRA;CB;17
+Eduardo Melo;Criciúma;99;BRA;FW;23
+Luis Eduardo Marques dos Santos;Criciúma;31;BRA;RB;27
+Danilo Fernandes;Bahia;1;BRA;GK;36
+Budiga Roni;Atlético Goianiense;8;BRA;CM;25
+Matías Lacava;Atlético Goianiense;17;VEN;LM;22
+Luiz Gustavo;Atlético Goianiense;16;BRA;DM;21
+Weverton;Cruzeiro;44;BRA;LW;21

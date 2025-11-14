@@ -1,0 +1,44 @@
+services:
+  db:
+    image: postgres:15
+    container_name: brscout-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: brscout
+    volumes:
+      - ./import:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"
+    networks:
+      - brnet
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d brscout"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+  api:
+    build: .
+    container_name: brscout-api
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/brscout
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: 123
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
+      SPRING_SQL_INIT_MODE: never
+      # Adicione timeout de conexão
+      SPRING_DATASOURCE_HIKARI_CONNECTION-TIMEOUT: 60000
+      SPRING_DATASOURCE_HIKARI_INITIALIZATION-FAIL-TIMEOUT: 60000
+    ports:
+      - "8080:8080"
+    networks:
+      - brnet
+    restart: on-failure
+
+networks:
+  brnet:
